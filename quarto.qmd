@@ -1,0 +1,35 @@
+---
+title: "Main Features of Quarto for Software Documentation"
+author: "Xavier"
+date: 03/12/2024
+format: html
+---
+
+
+# Introduction
+
+Quarto is an open-source system for authoring and publishing high-quality documents, reports, and websites. It provides an easy-to-use interface for creating dynamic software documentation, technical reports, and scientific papers. With support for multiple programming languages, Quarto makes it easy to integrate code, results, and narrative into a seamless document.
+
+In this page, we will explore the **main features of Quarto** for **software documentation**.
+
+# 1. Literate Programming
+
+Quarto enables **literate programming**, where you can embed executable code directly into your documentation. This is particularly useful for software documentation, as you can demonstrate how to use your software, explain code snippets, and include output directly in your documentation.
+
+
+### Key Features Highlighted in the Markup:
+
+1. **Literate Programming**: Embed executable code in your documentation.
+2. **Syntax Highlighting**: Supports syntax highlighting for a wide range of languages (Python, R, Julia, etc.).
+3. **Dynamic Code Execution**: Automatically execute code and include results in the document (e.g., tables, plots).
+4. **Cross-Referencing**: Reference sections, tables, and figures within the document.
+5. **Tables and Figures**: Easily integrate tables, LaTeX-style tables, and images into your documentation.
+6. **Multi-Format Output**: Generate documentation in HTML, PDF, Word, and other formats.
+7. **Version Control Integration**: Quarto works well with Git and GitHub for version-controlled documentation.
+
+### Customizing Your Quarto Document
+
+- **YAML metadata**: You can customize the metadata section (e.g., title, author, date, and output formats) at the top of the document.
+- **Custom Themes**: Quarto allows the use of custom themes and templates for creating more polished and branded documentation.
+
+This document provides a good overview of Quarto’s capabilities, with examples and code that you can modify for your own software documentation needs.
