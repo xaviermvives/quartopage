@@ -3,6 +3,8 @@ title: "About"
 format: html
 ---
 
+# New changes to test automation script with bash
+
 | Right | Left | Default | Center |
 |------:|:-----|---------|:------:|
 |   12  |  12  |    12   |    12  |
