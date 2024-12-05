@@ -16,6 +16,7 @@ git push origin main
 # Publish to GitHub Pages using quarto
 quarto publish gh-pages --no-render --no-prompt
 
+log_message()
 
 log_message() {
     local message="$1"
@@ -23,4 +24,3 @@ log_message() {
     echo "[${timestamp}] ${message}" >> log.txt
 }
 
-log_message()
