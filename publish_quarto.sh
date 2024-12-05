@@ -24,5 +24,4 @@ log_message() {
     echo "[${timestamp}] ${message}" >> log.txt
 }
 
-log_message
-
+log_message()
